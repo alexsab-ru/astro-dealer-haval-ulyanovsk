@@ -37,7 +37,7 @@ export const LINKS_MENU = [
 
 // Коллекции
 export const COLLECTIONS = [
-	// {name: 'special-offers', title: 'Спецпредложения'},
+	{name: 'special-offers', title: 'Спецпредложения'},
 	// {name: 'news', title: 'Новости'},
 ];
 
