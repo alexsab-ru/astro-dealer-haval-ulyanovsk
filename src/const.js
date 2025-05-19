@@ -17,27 +17,27 @@ const children = Object.keys(groupModelsByBrand).reduce((acc, key) => {
 	return acc;
 }, {});
 export const LINKS_MENU = [
-	{url: 'cars/', name: 'Авто в наличии'},
+	{url: '#specials', name: 'Спецпредложения'},
+	// {url: '#models', name: 'Модели'},
+	{url: '#test-drive', name: 'Запись на тест-драйв'},
+	{url: '#cars', name: 'Авто в наличии'},
 	// {url: 'catalog/', name: 'Каталог'},
 	// {url: 'used_cars/', name: 'Авто с пробегом'},
-	{ 
-		url: 'models/', 
-		name: 'Модели',
-		children
-	},
-	// {url: 'for-owners/', name: 'Владельцам'},
+	// { 
+	// 	url: 'models/', 
+	// 	name: 'Модели',
+	// 	children
+	// },
 	// {url: 'trade-in/', name: 'Оценка автомобиля'},
-	{url: 'special-offers/', name: 'Спецпредложения'},
 	// {url: 'news/', name: 'Новости'},
-	{url: 'test-drive/', name: 'Запись на тест-драйв'},
-	{url: 'service-request/', name: 'Запись на сервис'},
-	{url: '#services', name: 'Услуги'},
-	{url: 'contacts/', name: 'Контакты'},
+	// {url: 'service-request/', name: 'Запись на сервис'},
+	// {url: '#services', name: 'Услуги'},
+	{url: '#contacts', name: 'Контакты'},
 ];
 
 // Коллекции
 export const COLLECTIONS = [
-	{name: 'special-offers', title: 'Спецпредложения'},
+	// {name: 'special-offers', title: 'Спецпредложения'},
 	// {name: 'news', title: 'Новости'},
 ];
 
