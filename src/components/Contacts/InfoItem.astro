@@ -18,11 +18,11 @@ import { phoneFormat } from '@/js/utils/numbers.format';
 		{type === 'phone' ? (
 			<a
 				href={`tel:${phoneFormat(value)}`}
-				class="text-sm sm:text-lg font-medium transition-colors hover:text-accent-500 goal-click-lead-tel">
+				class="text-sm sm:text-lg font-normal transition-colors hover:text-accent-500 goal-click-lead-tel">
 				{value}
 			</a>
 		) : (
-			<div class="text-sm sm:text-lg font-medium"><Fragment set:html={value} /></div>
+			<div class="text-sm sm:text-lg font-normal"><Fragment set:html={value} /></div>
 		)}
 	</div>
 </div>

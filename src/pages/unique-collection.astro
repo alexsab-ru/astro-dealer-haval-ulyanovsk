@@ -1,0 +1,90 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import CarsList from '@/components/Cars/List.astro';
+import { getCollection } from "astro:content";
+import settings from '@/data/settings.json';
+const { site_name, brand, legal_city_where } = settings;
+import {TIMER, MARQUEE} from '@/const.js';
+const allCars = await getCollection("cars");
+
+const vins = [
+	"XZGEE04AXSA586621",
+	"XZGFE04A7SA584894",
+	"XZGFE04A8SA584712",
+	"XZGFE04A1SA583496",
+	"XZGFE04A7SA583454",
+	"XZGEE04A3SA576349",
+	"XZGEE04A9SA571849",
+	"XZGEE04A3SA571846",
+	"XZGEE04A7SA571848",
+	"XZGEE04A5SA571847",
+	"XZGEE04A1SA571845",
+	"XZGEE04A3SA577341",
+	"XZGEE04A3SA577338",
+	"XZGEE04A5SA577339",
+	"XZGEE04A8SA578551",
+	"XZGEE04A6SA578547",
+	"XZGEE04A3SA578554",
+	"XZGEE04A0SA578530",
+	"XZGEE04A6SA577334",
+	"XZGEE04A1SA576351",
+	"XZGEE04A3SA576352",
+	"XZGEE04A5SA576353",
+	"XZGEE04A7SA576354",
+	"XZGEE04AXSA576350",
+	"XZGEE04A5SA578538",
+	"XZGEE04A5SA571850",
+	"LGWEF4A57RF746601",
+	"LGWEF4A53RF747289",
+	"LGWEF4A52RF743511",
+	"LGWEF4A52RF745954",
+	"LGWEF4A54RF745955",
+	"LGWEF4A56RF745956",
+	"LGWEF4A52RF747364",
+	"XZGFE04A6SA582215",
+	"LGWEF4A55RF740909",
+	"XZGEE04AXSA586344",
+	"XZGEE04A1SA586880",
+	"LGWEF4A50RF747301",
+	"LGWEF4A51RF747243",
+	"LGWEF4A53RF746711",
+	"XZGEE04A3SA586413",
+	"XZGEE04A2SA586399",
+	"XZGEE04A6SA578564",
+	"XZGEE04A9SA578560",
+	"XZGEE04A1SA578567",
+	"LGWEF4A56RF746010",
+	"LGWEF4A59RF739486",
+	"LGWEF4A53RF739175",
+	"LGWEF4A58RF739172",
+	"LGWEF4A5XRF740792",
+	"LGWEF4A57RF740796",
+	"LGWEF4A50RF740798",
+	"LGWEF4A59RF740914",
+	"LGWEF4A50RF742051",
+	"LGWEF4A55RF742045",
+	"LGWEF4A54RF739170",
+	"LGWEF4A58RF739138"
+];
+
+const cars = allCars.filter(car => {
+	const carVins = car.data.vin_list.split(',').map(vin => vin.trim());
+	return carVins.some(vin => vins.includes(vin));
+});
+---
+
+<Layout title='Уникальная подборка HAVAL — только в Haval City Тон Авто Ульяновск!' description='Уникальная подборка HAVAL — только в Haval City Тон Авто Ульяновск!'>
+	<div class="container py-10 space-y-10">
+		<h1 class="text-3xl sm:text-4xl font-bold">Уникальная подборка HAVAL — только в Haval City Тон Авто Ульяновск!</h1>
+		<p>Мы получили от дистрибьютора ограниченную партию автомобилей HAVAL по специальным сниженным ценам. Это не просто выгодное предложение — это уникальный модельный микс с топовыми комплектациям, которые ты не найдёшь в радиусе 1000 км!</p>
+		<p>Haval Dargo, H6, Jolion — в насыщенных версиях, с полным приводом, панорамой, ассистентами и премиальной отделкой. Всё уже в наличии на складе — только лучшие комплектации по отличной цене! Успей выбрать и забронировать свой автомобиль — количество  ограничено.</p>
+		<p>А если расскажешь друзьям или опубликуешь об этом в своих соцсетях, мы подарим дополнительную скидку!</p>
+		
+		{cars.length > 0 && (
+			<>
+				<h2 class="text-xl sm:text-4xl font-normal mb-8 sm:mb-14">{`Автомобили ${brand} по специальным сниженным ценам в ${legal_city_where}`}</h2>
+				<CarsList cars={cars} />
+			</>
+		)}
+	</div>
+</Layout>
