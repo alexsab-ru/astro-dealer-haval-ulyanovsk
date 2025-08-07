@@ -4,13 +4,16 @@ title: "НОВЫЙ HAVAL H3"
 caption: "НОВЫЙ HAVAL H3. Выгода до&nbsp;{{benefitb-haval-h3}}!"
 breadcrumb: "Новый Haval H3"
 image: "https://cdn.alexsab.ru/specials/haval/ulyanovsk/novyy-haval-h3/Ton-avto_haval_h3_640х360.webp"
-description: "НОВЫЙ HAVAL H3. ЭКСКЛЮЗИВНО В УЛЬЯНОВСКЕ - HAVAL PRO. Зимние шины и Дополнительное оборудование в ПОДАРОК. Ставка от 0,01% до 25,9% без подтверждения дохода. Высокая Trade IN оценка. Широкий выбор автомобилей в наличии. Гарантия до 5 лет"
+description: "НОВЫЙ HAVAL H3. ЭКСКЛЮЗИВНО В {{legal_city_where}} - HAVAL PRO. Зимние шины и Дополнительное оборудование в ПОДАРОК. Ставка от 0,01% до 25,9% без подтверждения дохода. Высокая Trade IN оценка. Широкий выбор автомобилей в наличии. Гарантия до 5 лет"
 slug: "novyy-haval-h3"
 ---
 import Button from '@/components/Button/Button.astro';
 import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+
+import settings from '@/data/settings.json';
+export const { legal_city_where } = settings;
 
 export const dateFrom = '01.07.2024';
 export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
@@ -24,7 +27,7 @@ export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 </picture>
 
 <br/>
-- ЭКСКЛЮЗИВНО В УЛЬЯНОВСКЕ - HAVAL PRO
+- ЭКСКЛЮЗИВНО В <span class="uppercase">{legal_city_where}</span> - HAVAL PRO
 - Зимние шины и Дополнительное оборудование в ПОДАРОК
 - Ставка от 0,01% до 25,9% без подтверждения дохода
 - Высокая Trade IN оценка

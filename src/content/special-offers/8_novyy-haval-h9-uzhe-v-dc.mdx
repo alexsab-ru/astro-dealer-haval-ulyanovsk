@@ -4,13 +4,16 @@ title: "НОВЫЙ HAVAL H9 УЖЕ в ДЦ"
 caption: "НОВЫЙ HAVAL H9 УЖЕ в ДЦ. Выгода до&nbsp;{{benefitb-haval-h9-new}}!"
 breadcrumb: "НОВЫЙ HAVAL H9 УЖЕ в ДЦ"
 image: "https://cdn.alexsab.ru/specials/haval/ulyanovsk/novyy-haval-h9-uzhe-v-dc/Ton-avto_haval_h9_benz_640х360.webp"
-description: "НОВЫЙ HAVAL H9 УЖЕ в ДЦ. ЭКСКЛЮЗИВНО В УЛЬЯНОВСКЕ - HAVAL PRO. Бензиновые и Дизельные версии по одной цене!. Рамная конструкция. Ставка от 3,99% до 23,4% без подтверждения дохода. Высокая Trade IN оценка. Зимние шины и Дополнительное оборудование в ПОДАРОК. Широкий выбор автомобилей в наличии"
+description: "НОВЫЙ HAVAL H9 УЖЕ в ДЦ. ЭКСКЛЮЗИВНО В {{legal_city_where}} - HAVAL PRO. Бензиновые и Дизельные версии по одной цене!. Рамная конструкция. Ставка от 3,99% до 23,4% без подтверждения дохода. Высокая Trade IN оценка. Зимние шины и Дополнительное оборудование в ПОДАРОК. Широкий выбор автомобилей в наличии"
 slug: "novyy-haval-h9-uzhe-v-dc"
 ---
 import Button from '@/components/Button/Button.astro';
 import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+
+import settings from '@/data/settings.json';
+export const { legal_city_where } = settings;
 
 export const dateFrom = '01.07.2024';
 export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
@@ -24,7 +27,7 @@ export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 </picture>
 
 <br/>
-- ЭКСКЛЮЗИВНО В УЛЬЯНОВСКЕ - HAVAL PRO
+- ЭКСКЛЮЗИВНО В <span class="uppercase">{legal_city_where}</span> - HAVAL PRO
 - Бензиновые и Дизельные версии по одной цене!
 - Рамная конструкция
 - Ставка от 3,99% до 23,4% без подтверждения дохода
