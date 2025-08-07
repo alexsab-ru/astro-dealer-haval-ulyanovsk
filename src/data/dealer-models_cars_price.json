@@ -1,0 +1,68 @@
+[
+  {
+    "brand": "Great Wall",
+    "model": "POER KINGKONG",
+    "price": 2736500,
+    "benefit": 727510
+  },
+  {
+    "brand": "Great Wall",
+    "model": "Poer",
+    "price": 3199000,
+    "benefit": 651110
+  },
+  {
+    "brand": "Haval",
+    "model": "DARGO",
+    "price": 2703500,
+    "benefit": 267010
+  },
+  {
+    "brand": "Haval",
+    "model": "F7",
+    "price": 2449000,
+    "benefit": 223010
+  },
+  {
+    "brand": "Haval",
+    "model": "F7x",
+    "price": 3099000,
+    "benefit": 216510
+  },
+  {
+    "brand": "Haval",
+    "model": "H3",
+    "price": 2089000,
+    "benefit": 668010
+  },
+  {
+    "brand": "Haval",
+    "model": "H5",
+    "price": 2969000,
+    "benefit": 643510
+  },
+  {
+    "brand": "Haval",
+    "model": "H7",
+    "price": 2947000,
+    "benefit": 517010
+  },
+  {
+    "brand": "Haval",
+    "model": "H9",
+    "price": 3712000,
+    "benefit": 643010
+  },
+  {
+    "brand": "Haval",
+    "model": "Jolion",
+    "price": 1760000,
+    "benefit": 227510
+  },
+  {
+    "brand": "Haval",
+    "model": "M6",
+    "price": 1709000,
+    "benefit": 369010
+  }
+]
