@@ -13,7 +13,7 @@ import Timer from '@/components/Timer/Timer.astro';
 import Breadcrumbs from '@/components/Breadcrumbs/Breadcrumbs.astro';
 
 import bannersData from '@/data/banners.json';
-const banners = bannersData.filter(banner => banner.type === 'special');
+const banners = bannersData.filter(banner => (banner.type === 'special' && banner.show));
 
 export const collection = 'special-offers';
 export const title = 'Спецпредложения';
