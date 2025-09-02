@@ -177,10 +177,11 @@ jobs:
           QUERY_STRING: ${{ vars.DEALER_PRICE_CSV_COLUMN }}
           KEY_MAPPING: ${{ vars.DEALER_PRICE_KEY_MAPPING }}
 
-      - name: remove dealer-models_price.json
+      - name: remove dealer-models_cars_price.json
         if: ${{ steps.check_changes.outputs.changes == 'true' && vars.ONLY_FEDERAL_PRICE }}
         run: |
-          rm src/data/dealer-models_price.json
+          rm src/data/dealer-models_cars_price.json
+        continue-on-error: true
 
       - name: ls files
         run: |
