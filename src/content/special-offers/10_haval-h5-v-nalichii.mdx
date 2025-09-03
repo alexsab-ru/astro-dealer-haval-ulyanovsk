@@ -1,10 +1,10 @@
 ---
 h1: "HAVAL H5 в наличии!"
 title: "HAVAL H5 в наличии"
-caption: "HAVAL H5 в наличии. Выгода до&nbsp;100 000 ₽!"
+caption: "HAVAL H5 в наличии. Выгода до&nbsp;{{benefitb-haval-h5}}!"
 breadcrumb: "HAVAL H5 в наличии"
 image: "https://cdn.alexsab.ru/specials/haval/ulyanovsk/haval-h5-v-nalichii/Ton-avto_haval_h5_benz_640х360.webp"
-description: "HAVAL H5 в наличии. Выгода до 100 000 ₽. ЭКСКЛЮЗИВНО В Ульяновске - HAVAL PRO. НЕВЕРОЯТНО ОГРОМНЫЙ - длина 5,19м. Бензиновые и Дизельные версии по одной цене!. Зимние шины и антикор в ПОДАРОК. Ставка от 0,01% до 21,5% без подтверждения дохода"
+description: "HAVAL H5 в наличии. Выгода до {{benefitb-haval-h5}}. ЭКСКЛЮЗИВНО В Ульяновске - HAVAL PRO. НЕВЕРОЯТНО ОГРОМНЫЙ - длина 5,19м. Бензиновые и Дизельные версии по одной цене!. Зимние шины и антикор в ПОДАРОК. Ставка от 0,01% до 21,5% без подтверждения дохода"
 slug: "haval-h5-v-nalichii"
 ---
 import Button from '@/components/Button/Button.astro';
@@ -27,7 +27,7 @@ export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 </picture>
 
 <br/>
-- Выгода до 100 000 ₽
+- Выгода до <Fragment set:html={`{{benefitb-haval-h5}}`} />
 - ЭКСКЛЮЗИВНО В <span class="uppercase">{legal_city_where}</span> - HAVAL PRO
 - НЕВЕРОЯТНО ОГРОМНЫЙ - длина 5,19м
 - Бензиновые и Дизельные версии по одной цене!
