@@ -1,6 +1,4 @@
 @use "mixins";
 
-@include mixins.font("Haval", normal, 300, "https://cdn.alexsab.ru/b/haval/fonts/Haval-300.woff2");
-@include mixins.font("Haval", normal, 400, "https://cdn.alexsab.ru/b/haval/fonts/Haval-400.woff2");
-@include mixins.font("Haval", normal, 500, "https://cdn.alexsab.ru/b/haval/fonts/Haval-500.woff2");
-@include mixins.font("Haval", normal, 700, "https://cdn.alexsab.ru/b/haval/fonts/Haval-700.woff2");
+/* @include mixins.font("Gilroy", normal, 300, "/fonts/gilroy-light.woff2");
+@include mixins.font("Gilroy", normal, 800, "/fonts/gilroy-extrabold.woff2"); */
