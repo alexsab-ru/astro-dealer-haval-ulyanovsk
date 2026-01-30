@@ -31,6 +31,12 @@
   },
   {
     "brand": "Haval",
+    "model": "H7",
+    "price": 3249000,
+    "benefit": 710010
+  },
+  {
+    "brand": "Haval",
     "model": "H9",
     "price": 3844000,
     "benefit": 650010
@@ -46,11 +52,5 @@
     "model": "M6",
     "price": 1809010,
     "benefit": 250000
-  },
-  {
-    "brand": "Haval",
-    "model": "НОВЫЙ H7",
-    "price": 3249000,
-    "benefit": 710010
   }
 ]
