@@ -3,9 +3,16 @@ import Layout from '@/layouts/Layout.astro';
 import { ChatWidget } from '@/components/React/ChatWidget/ChatWidget-v2';
 import { USPSection } from '@/components/React/USPSection';
 import Banner from '@/components/Banner/Banner.astro'
-import chatConfig from '@/data/chat-landing.json';
+import fs from 'node:fs';
 import siteSettings from '@/data/settings.json';
 import modelsData from '@/data/models.json';
+
+let chatConfig: any = { settings: {}, questions: [] };
+const chatConfigPath = new URL('../data/chat-landing.json', import.meta.url);
+if (fs.existsSync(chatConfigPath)) {
+    chatConfig = JSON.parse(fs.readFileSync(chatConfigPath, 'utf-8'));
+}
+
 const { models } = modelsData;
 const banners = [
     {
