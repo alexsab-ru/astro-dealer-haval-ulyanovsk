@@ -8,14 +8,14 @@
   {
     "brand": "Haval",
     "model": "F7",
-    "price": 2577500,
-    "benefit": 323010
+    "price": 2617500,
+    "benefit": 283010
   },
   {
     "brand": "Haval",
     "model": "F7x",
-    "price": 3223500,
-    "benefit": 332010
+    "price": 3259000,
+    "benefit": 314010
   },
   {
     "brand": "Haval",
@@ -44,13 +44,13 @@
   {
     "brand": "Haval",
     "model": "JOLION",
-    "price": 1799000,
-    "benefit": 323510
+    "price": 1837000,
+    "benefit": 273510
   },
   {
     "brand": "Haval",
     "model": "M6",
     "price": 1789000,
-    "benefit": 230010
+    "benefit": 228000
   }
 ]
