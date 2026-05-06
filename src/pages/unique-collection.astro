@@ -2,7 +2,7 @@
 import Layout from '@/layouts/Layout.astro';
 import CarsList from '@/components/Cars/List.astro';
 import { getCollection } from "astro:content";
-import settings from '@/data/settings.json';
+import settings from '@/data/site/settings.json';
 const { site_name, brand, legal_city_where } = settings;
 import {TIMER, MARQUEE} from '@/const.js';
 const allCars = await getCollection("cars");
