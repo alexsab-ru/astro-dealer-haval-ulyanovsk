@@ -4,13 +4,13 @@ if (isRouteDisabled('/cars/')) {
 	return Astro.rewrite(SITE_NOT_FOUND_PATH);
 }
 import PageLayout from "@/layouts/PageLayout.astro";
-import { getCollection } from "astro:content";
+import { getSafeCollection } from '@/js/utils/safeContent';
 import settings from '@/data/site/settings.json';
 if(settings.brand === 'Livan') { settings.brand = 'ЛИВЭН (LIVAN)'; }
 const { site_name, brand, legal_city_where } = settings;
 import CarsList from '@/components/Cars/List.astro';
 import SeoText from '@/components/Seo/Index.astro';
-const rawCars = await (getCollection as any)("cars");
+const rawCars = await getSafeCollection("cars");
 let cars: any, image: string;
 import { getRandomInt } from "@/js/utils/numbers.format";
 if (rawCars && rawCars.length > 0) {
