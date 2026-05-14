@@ -4,6 +4,7 @@ import CarPageLayout from '../../layouts/CarPageLayout.astro';
 import SeoText from '@/components/Seo/Index.astro';
 import { isRouteDisabled } from '@/js/utils/siteRoutes';
 import { getSafeCollection } from '@/js/utils/safeContent';
+import { filterVisibleCars } from '@/js/utils/car';
 const { slug } = Astro.params;
 const seoname = 'used_cars-'+slug;
 
@@ -13,12 +14,10 @@ export async function getStaticPaths() {
 
 	// Проверяем, что массив cars не пустой перед обработкой
 	if (cars && cars.length > 0) {
-		return cars
-			.filter((car) => !(typeof car.id === 'string' && car.id.startsWith('__')))
-			.map((car) => ({
-				params: { slug: car.id },
-				props: car,
-			}));
+		return filterVisibleCars(cars).map((car) => ({
+			params: { slug: car.id },
+			props: car,
+		}));
 	} else {
 		// Если массив пустой, возвращаем пустой массив путей
 		return [];
