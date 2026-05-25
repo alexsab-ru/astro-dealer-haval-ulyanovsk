@@ -14,14 +14,14 @@
   {
     "brand": "Haval",
     "model": "F7x",
-    "price": 3599000,
+    "price": 0,
     "benefit": 0
   },
   {
     "brand": "Haval",
     "model": "H3",
     "price": 2499000,
-    "benefit": 568010
+    "benefit": 565010
   },
   {
     "brand": "Haval",
@@ -32,7 +32,7 @@
   {
     "brand": "Haval",
     "model": "H7",
-    "price": 3799000,
+    "price": 0,
     "benefit": 200000
   },
   {
