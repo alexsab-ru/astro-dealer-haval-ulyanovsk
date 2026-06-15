@@ -8,7 +8,7 @@
   {
     "brand": "Haval",
     "model": "F7",
-    "price": 2899000,
+    "price": 3299000,
     "benefit": 291010
   },
   {
@@ -20,7 +20,7 @@
   {
     "brand": "Haval",
     "model": "H3",
-    "price": 2499000,
+    "price": 2849000,
     "benefit": 200000
   },
   {
@@ -38,7 +38,7 @@
   {
     "brand": "Haval",
     "model": "H9",
-    "price": 4699000,
+    "price": 4799000,
     "benefit": 0
   },
   {
@@ -50,7 +50,7 @@
   {
     "brand": "Haval",
     "model": "M6",
-    "price": 1999000,
-    "benefit": 206010
+    "price": 2299000,
+    "benefit": 0
   }
 ]
