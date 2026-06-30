@@ -19,30 +19,6 @@
   },
   {
     "brand": "Haval",
-    "model": "H3",
-    "price": 2499000,
-    "benefit": 200000
-  },
-  {
-    "brand": "Haval",
-    "model": "H5",
-    "price": 4049000,
-    "benefit": 0
-  },
-  {
-    "brand": "Haval",
-    "model": "H7",
-    "price": 3999000,
-    "benefit": 200000
-  },
-  {
-    "brand": "Haval",
-    "model": "H9",
-    "price": 4799000,
-    "benefit": 0
-  },
-  {
-    "brand": "Haval",
     "model": "JOLION",
     "price": 2449000,
     "benefit": 0
