@@ -2,14 +2,14 @@
   {
     "brand": "Haval",
     "model": "DARGO",
-    "price": 3119000,
-    "benefit": 374010
+    "price": 3399000,
+    "benefit": 0
   },
   {
     "brand": "Haval",
     "model": "F7",
-    "price": 2749000,
-    "benefit": 312510
+    "price": 2899000,
+    "benefit": 0
   },
   {
     "brand": "Haval",
@@ -50,7 +50,7 @@
   {
     "brand": "Haval",
     "model": "M6",
-    "price": 1838500,
-    "benefit": 190010
+    "price": 2028510,
+    "benefit": 0
   }
 ]
