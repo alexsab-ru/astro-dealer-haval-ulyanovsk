@@ -2,25 +2,25 @@
   {
     "brand": "Haval",
     "model": "DARGO",
-    "price": 3179500,
+    "price": 3178500,
     "benefit": 375510
   },
   {
     "brand": "Haval",
     "model": "F7",
     "price": 2699000,
-    "benefit": 314020
+    "benefit": 354500
   },
   {
     "brand": "Haval",
     "model": "F7x",
-    "price": 3198500,
-    "benefit": 562510
+    "price": 3598500,
+    "benefit": 360510
   },
   {
     "brand": "Haval",
     "model": "H3",
-    "price": 2018610,
+    "price": 2012322,
     "benefit": 727500
   },
   {
@@ -45,12 +45,12 @@
     "brand": "Haval",
     "model": "JOLION",
     "price": 1797500,
-    "benefit": 301010
+    "benefit": 308010
   },
   {
     "brand": "Haval",
     "model": "M6",
-    "price": 1828500,
-    "benefit": 260010
+    "price": 1827500,
+    "benefit": 257010
   }
 ]
