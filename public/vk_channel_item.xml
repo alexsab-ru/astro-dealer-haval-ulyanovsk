@@ -554,29 +554,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LGWFG6A88TM614991</id>
-    <link>https://haval-ulyanovsk.ru/cars/haval-h5-ii-20-at-200-hp-4wd-premium-black-jade-2026/</link>
-    <brand>Haval</brand>
-    <model>H5, II</model>
-    <year>2026</year>
-    <title>Haval H5, II Премиум 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/LGWFG6A88TM614991/0/full.webp?v=263c841ce8de</image_link>
-    <price>4305510 RUB</price>
-    <sale_price>3654000 RUB</sale_price>
-    <min_price>3654000 RUB</min_price>
-    <max_price>4305510 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval H5, II, Премиум, 2.0 AT (200 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>LGWFG6A88TM614991</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>LGWFG6A8XTM618623</id>
     <link>https://haval-ulyanovsk.ru/cars/haval-h5-ii-20-at-200-hp-4wd-premium-black-jade-2026/</link>
     <brand>Haval</brand>
@@ -2505,52 +2482,6 @@
       <unit>KM</unit>
     </mileage>
     <vin>XZGFF07A7TA712237</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>XZGFF07AXTA710725</id>
-    <link>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-231-hp-4wd-techno--plus-noble-agate-2026/</link>
-    <brand>Haval</brand>
-    <model>H7, I</model>
-    <year>2026</year>
-    <title>Haval H7, I Техно + 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF07AXTA710725/0/full.webp?v=80b11c082eee</image_link>
-    <price>4157010 RUB</price>
-    <sale_price>3295000 RUB</sale_price>
-    <min_price>3295000 RUB</min_price>
-    <max_price>4157010 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval H7, I, Техно +, 2.0 AMT (231 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGFF07AXTA710725</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>XZGFF07AXTA711163</id>
-    <link>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-231-hp-4wd-techno--plus-smoky-pearls-2026/</link>
-    <brand>Haval</brand>
-    <model>H7, I</model>
-    <year>2026</year>
-    <title>Haval H7, I Техно + 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF07AXTA711163/0/full.webp?v=c5c0951af378</image_link>
-    <price>4157010 RUB</price>
-    <sale_price>3294239 RUB</sale_price>
-    <min_price>3294239 RUB</min_price>
-    <max_price>4157010 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval H7, I, Техно +, 2.0 AMT (231 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGFF07AXTA711163</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
