@@ -880,6 +880,11 @@
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A6XTJ695839/22/full.webp?v=51f024d2ac57</image>
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A6XTJ695839/23/full.webp?v=5bb158a2e424</image>
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A6XTJ695839/24/full.webp?v=d6b57012043e</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A6XTJ695839/25/full.webp?v=cf96b4215fa7</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A6XTJ695839/26/full.webp?v=b302e8454935</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A6XTJ695839/27/full.webp?v=a825fff9bc4f</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A6XTJ695839/28/full.webp?v=7cc8f0125ce6</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A6XTJ695839/29/full.webp?v=fca10e5b1ace</image>
       </images>
     </car>
     <car>
@@ -1035,6 +1040,11 @@
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/LGWFG6A8XTM621957/22/full.webp?v=acef91352cfa</image>
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/LGWFG6A8XTM621957/23/full.webp?v=46c8d0646a81</image>
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/LGWFG6A8XTM621957/24/full.webp?v=b2fcc4300c03</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/LGWFG6A8XTM621957/25/full.webp?v=d841042127b9</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/LGWFG6A8XTM621957/26/full.webp?v=fc7e45f50099</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/LGWFG6A8XTM621957/27/full.webp?v=baa64cff94e2</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/LGWFG6A8XTM621957/28/full.webp?v=252c786cc669</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/LGWFG6A8XTM621957/29/full.webp?v=a59a2d19317f</image>
       </images>
     </car>
     <car>
@@ -1991,6 +2001,11 @@
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A6TA828951/22/full.webp?v=c7d17cf68d80</image>
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A6TA828951/23/full.webp?v=70da2c6bd2d2</image>
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A6TA828951/24/full.webp?v=d957215a2f5b</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A6TA828951/25/full.webp?v=4c1d19ca7b92</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A6TA828951/26/full.webp?v=637d5a5a0289</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A6TA828951/27/full.webp?v=618b4c5a55f9</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A6TA828951/28/full.webp?v=392db2422fb0</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A6TA828951/29/full.webp?v=fc95ed2c7ffb</image>
       </images>
     </car>
     <car>
@@ -2138,6 +2153,11 @@
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA829803/22/full.webp?v=c7d17cf68d80</image>
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA829803/23/full.webp?v=70da2c6bd2d2</image>
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA829803/24/full.webp?v=d957215a2f5b</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA829803/25/full.webp?v=4c1d19ca7b92</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA829803/26/full.webp?v=637d5a5a0289</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA829803/27/full.webp?v=618b4c5a55f9</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA829803/28/full.webp?v=392db2422fb0</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA829803/29/full.webp?v=fc95ed2c7ffb</image>
       </images>
     </car>
     <car>
@@ -2275,6 +2295,11 @@
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA828904/22/full.webp?v=c7d17cf68d80</image>
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA828904/23/full.webp?v=70da2c6bd2d2</image>
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA828904/24/full.webp?v=d957215a2f5b</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA828904/25/full.webp?v=4c1d19ca7b92</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA828904/26/full.webp?v=637d5a5a0289</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA828904/27/full.webp?v=618b4c5a55f9</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA828904/28/full.webp?v=392db2422fb0</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA828904/29/full.webp?v=fc95ed2c7ffb</image>
       </images>
     </car>
     <car>
@@ -2371,6 +2396,11 @@
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04AXTA828953/22/full.webp?v=c7d17cf68d80</image>
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04AXTA828953/23/full.webp?v=70da2c6bd2d2</image>
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04AXTA828953/24/full.webp?v=d957215a2f5b</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04AXTA828953/25/full.webp?v=4c1d19ca7b92</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04AXTA828953/26/full.webp?v=637d5a5a0289</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04AXTA828953/27/full.webp?v=618b4c5a55f9</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04AXTA828953/28/full.webp?v=392db2422fb0</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04AXTA828953/29/full.webp?v=fc95ed2c7ffb</image>
       </images>
     </car>
     <car>
@@ -3104,6 +3134,10 @@
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A7TA828864/27/full.webp?v=12702f727f32</image>
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A7TA828864/28/full.webp?v=4ff684fe20fc</image>
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A7TA828864/29/full.webp?v=1d01b5fbc2b0</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A7TA828864/30/full.webp?v=6eb09a32c0dd</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A7TA828864/31/full.webp?v=4a8900c31868</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A7TA828864/32/full.webp?v=75caca0e5280</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A7TA828864/33/full.webp?v=0204dba26ddf</image>
       </images>
     </car>
     <car>
@@ -3708,6 +3742,30 @@
       </images>
     </car>
     <car>
+      <unique_id>XZGFF07A1TA712718</unique_id>
+      <url>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-231-hp-4wd-kosmo-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>H7, I</folder_id>
+      <year>2026</year>
+      <vin>XZGFF07A1TA712718</vin>
+      <price>4206510</price>
+      <sale_price>3349000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>857510</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Haval H7, I, Космо, 2.0 AMT (231 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A1TA712718/0/full.webp?v=88b1fcf0bbb2</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A1TA712718/1/full.webp?v=28a30843666c</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A1TA712718/2/full.webp?v=936c3a04892d</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A1TA712718/3/full.webp?v=c2ea7edb9195</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A1TA712718/4/full.webp?v=03a8f53de5a2</image>
+      </images>
+    </car>
+    <car>
       <unique_id>XZGFF07A2TA711500</unique_id>
       <url>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-231-hp-4wd-premium-noble-agate-2026/</url>
       <mark_id>Haval</mark_id>
@@ -4081,6 +4139,30 @@
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF07AXTA712006/21/full.webp?v=68c09e7f9d57</image>
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF07AXTA712006/22/full.webp?v=4cfd5ba7e4eb</image>
         <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF07AXTA712006/23/full.webp?v=89b4d3c37f23</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF07AXTA712863</unique_id>
+      <url>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-231-hp-4wd-kosmo-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>H7, I</folder_id>
+      <year>2026</year>
+      <vin>XZGFF07AXTA712863</vin>
+      <price>4206510</price>
+      <sale_price>3349000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>857510</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Haval H7, I, Космо, 2.0 AMT (231 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF07AXTA712863/0/full.webp?v=1dde77f27abf</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF07AXTA712863/1/full.webp?v=b8464d8b6352</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF07AXTA712863/2/full.webp?v=28a30843666c</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF07AXTA712863/3/full.webp?v=d244e4b9a6b4</image>
+        <image>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF07AXTA712863/4/full.webp?v=03a8f53de5a2</image>
       </images>
     </car>
   </cars>

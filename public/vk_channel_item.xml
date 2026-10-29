@@ -2348,6 +2348,29 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>XZGFF07A1TA712718</id>
+    <link>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-231-hp-4wd-kosmo-galactic-black-2026/</link>
+    <brand>Haval</brand>
+    <model>H7, I</model>
+    <year>2026</year>
+    <title>Haval H7, I Космо 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A1TA712718/0/full.webp?v=88b1fcf0bbb2</image_link>
+    <price>4206510 RUB</price>
+    <sale_price>3349000 RUB</sale_price>
+    <min_price>3349000 RUB</min_price>
+    <max_price>4206510 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval H7, I, Космо, 2.0 AMT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>XZGFF07A1TA712718</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>XZGFF07A2TA711500</id>
     <link>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-231-hp-4wd-premium-noble-agate-2026/</link>
     <brand>Haval</brand>
@@ -2551,6 +2574,29 @@
       <unit>KM</unit>
     </mileage>
     <vin>XZGFF07AXTA712006</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>XZGFF07AXTA712863</id>
+    <link>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-231-hp-4wd-kosmo-galactic-black-2026/</link>
+    <brand>Haval</brand>
+    <model>H7, I</model>
+    <year>2026</year>
+    <title>Haval H7, I Космо 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGFF07AXTA712863/0/full.webp?v=1dde77f27abf</image_link>
+    <price>4206510 RUB</price>
+    <sale_price>3349000 RUB</sale_price>
+    <min_price>3349000 RUB</min_price>
+    <max_price>4206510 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval H7, I, Космо, 2.0 AMT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>XZGFF07AXTA712863</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
