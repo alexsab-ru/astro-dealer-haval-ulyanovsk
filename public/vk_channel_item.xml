@@ -1106,29 +1106,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>XZGEF04A2TA828932</id>
-    <link>https://haval-ulyanovsk.ru/cars/haval-h3-i-facelift-15-amt-143-hp-optimum-20t-at-galactic-black-2026/</link>
-    <brand>Haval</brand>
-    <model>H3, I Рестайлинг</model>
-    <year>2026</year>
-    <title>Haval H3, I Рестайлинг Оптимум 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA828932/0/full.webp?v=ccfa6cc2a333</image_link>
-    <price>2721510 RUB</price>
-    <sale_price>2020000 RUB</sale_price>
-    <min_price>2020000 RUB</min_price>
-    <max_price>2721510 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval H3, I Рестайлинг, Оптимум, 1.5 AMT (143 л.с.), 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGEF04A2TA828932</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>XZGEF04A2TA830583</id>
     <link>https://haval-ulyanovsk.ru/cars/haval-h3-i-facelift-15-amt-143-hp-optimum-20t-at-noble-agate-2026/</link>
     <brand>Haval</brand>
