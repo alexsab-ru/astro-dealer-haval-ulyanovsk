@@ -1152,29 +1152,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>XZGEF04A3TA830074</id>
-    <link>https://haval-ulyanovsk.ru/cars/haval-h3-i-facelift-15-amt-143-hp-optimum-20t-at-galactic-black-2026/</link>
-    <brand>Haval</brand>
-    <model>H3, I Рестайлинг</model>
-    <year>2026</year>
-    <title>Haval H3, I Рестайлинг Оптимум 2026</title>
-    <image_link>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A3TA830074/0/full.webp?v=71567bb9cb4a</image_link>
-    <price>2721510 RUB</price>
-    <sale_price>2019589 RUB</sale_price>
-    <min_price>2019589 RUB</min_price>
-    <max_price>2721510 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval H3, I Рестайлинг, Оптимум, 1.5 AMT (143 л.с.), 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGEF04A3TA830074</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>XZGEF04A3TA830124</id>
     <link>https://haval-ulyanovsk.ru/cars/haval-h3-i-facelift-15-amt-143-hp-optimum-20t-at-ashy-anthracite-2026/</link>
     <brand>Haval</brand>
@@ -1447,29 +1424,6 @@
       <unit>KM</unit>
     </mileage>
     <vin>XZGEF04A9TA320005</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>XZGEF04A9TA828930</id>
-    <link>https://haval-ulyanovsk.ru/cars/haval-h3-i-facelift-15-amt-143-hp-optimum-20t-at-galactic-black-2026/</link>
-    <brand>Haval</brand>
-    <model>H3, I Рестайлинг</model>
-    <year>2026</year>
-    <title>Haval H3, I Рестайлинг Оптимум 2026</title>
-    <image_link>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A9TA828930/0/full.webp?v=0c0312405c68</image_link>
-    <price>2721510 RUB</price>
-    <sale_price>2020000 RUB</sale_price>
-    <min_price>2020000 RUB</min_price>
-    <max_price>2721510 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval H3, I Рестайлинг, Оптимум, 1.5 AMT (143 л.с.), 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGEF04A9TA828930</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -2026,29 +1980,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>XZGFF05A0TA827961</id>
-    <link>https://haval-ulyanovsk.ru/cars/haval-h3-i-facelift-15-amt-177-hp-4wd-premium-ashy-anthracite-2026/</link>
-    <brand>Haval</brand>
-    <model>H3, I Рестайлинг</model>
-    <year>2026</year>
-    <title>Haval H3, I Рестайлинг Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A0TA827961/0/full.webp?v=2162b21342bb</image_link>
-    <price>3216510 RUB</price>
-    <sale_price>2488000 RUB</sale_price>
-    <min_price>2488000 RUB</min_price>
-    <max_price>3216510 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval H3, I Рестайлинг, Премиум, 1.5 AMT (177 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGFF05A0TA827961</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>XZGFF05A0TA829838</id>
     <link>https://haval-ulyanovsk.ru/cars/haval-h3-i-facelift-15-amt-177-hp-4wd-techno--plus-galactic-black-2026/</link>
     <brand>Haval</brand>
@@ -2164,29 +2095,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>XZGFF05A4TA827882</id>
-    <link>https://haval-ulyanovsk.ru/cars/haval-h3-i-facelift-15-amt-177-hp-4wd-premium-noble-agate-2026/</link>
-    <brand>Haval</brand>
-    <model>H3, I Рестайлинг</model>
-    <year>2026</year>
-    <title>Haval H3, I Рестайлинг Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A4TA827882/0/full.webp?v=4de1fd5e179f</image_link>
-    <price>3216510 RUB</price>
-    <sale_price>2489777 RUB</sale_price>
-    <min_price>2489777 RUB</min_price>
-    <max_price>3216510 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval H3, I Рестайлинг, Премиум, 1.5 AMT (177 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGFF05A4TA827882</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>XZGFF05A4TA830698</id>
     <link>https://haval-ulyanovsk.ru/cars/haval-h3-i-facelift-15-amt-177-hp-4wd-techno--plus-galactic-black-2026/</link>
     <brand>Haval</brand>
@@ -2233,29 +2141,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>XZGFF05A5TA829463</id>
-    <link>https://haval-ulyanovsk.ru/cars/haval-h3-i-facelift-15-amt-177-hp-4wd-techno--plus-ashy-anthracite-2026/</link>
-    <brand>Haval</brand>
-    <model>H3, I Рестайлинг</model>
-    <year>2026</year>
-    <title>Haval H3, I Рестайлинг Техно + 2026</title>
-    <image_link>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A5TA829463/0/full.webp?v=9a0a6d3b978e</image_link>
-    <price>3513510 RUB</price>
-    <sale_price>2858000 RUB</sale_price>
-    <min_price>2858000 RUB</min_price>
-    <max_price>3513510 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval H3, I Рестайлинг, Техно +, 1.5 AMT (177 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGFF05A5TA829463</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>XZGFF05A5TA830354</id>
     <link>https://haval-ulyanovsk.ru/cars/haval-h3-i-facelift-15-amt-177-hp-4wd-premium-ashy-anthracite-2026/</link>
     <brand>Haval</brand>
@@ -2275,29 +2160,6 @@
       <unit>KM</unit>
     </mileage>
     <vin>XZGFF05A5TA830354</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>XZGFF05A7TA828864</id>
-    <link>https://haval-ulyanovsk.ru/cars/haval-h3-i-facelift-15-amt-177-hp-4wd-premium-ashy-anthracite-2026/</link>
-    <brand>Haval</brand>
-    <model>H3, I Рестайлинг</model>
-    <year>2026</year>
-    <title>Haval H3, I Рестайлинг Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A7TA828864/0/full.webp?v=4fac31e15dde</image_link>
-    <price>3216510 RUB</price>
-    <sale_price>2488000 RUB</sale_price>
-    <min_price>2488000 RUB</min_price>
-    <max_price>3216510 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval H3, I Рестайлинг, Премиум, 1.5 AMT (177 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGFF05A7TA828864</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -2390,29 +2252,6 @@
       <unit>KM</unit>
     </mileage>
     <vin>XZGFF05A9TA830633</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>XZGFF05AXTA827157</id>
-    <link>https://haval-ulyanovsk.ru/cars/haval-h3-i-facelift-15-amt-177-hp-4wd-premium-noble-agate-2026/</link>
-    <brand>Haval</brand>
-    <model>H3, I Рестайлинг</model>
-    <year>2026</year>
-    <title>Haval H3, I Рестайлинг Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF05AXTA827157/0/full.webp?v=4de1fd5e179f</image_link>
-    <price>3216510 RUB</price>
-    <sale_price>2489777 RUB</sale_price>
-    <min_price>2489777 RUB</min_price>
-    <max_price>3216510 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval H3, I Рестайлинг, Премиум, 1.5 AMT (177 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGFF05AXTA827157</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
