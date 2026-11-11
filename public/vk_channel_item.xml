@@ -2578,29 +2578,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>XZGFF07A1TA712718</id>
-    <link>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-231-hp-4wd-cosmo-galactic-black-2026/</link>
-    <brand>Haval</brand>
-    <model>H7, I</model>
-    <year>2026</year>
-    <title>Haval H7, I Космо 2026</title>
-    <image_link>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A1TA712718/0/full.webp?v=88b1fcf0bbb2</image_link>
-    <price>4206510 RUB</price>
-    <sale_price>3340000 RUB</sale_price>
-    <min_price>3340000 RUB</min_price>
-    <max_price>4206510 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Haval H7, I, Космо, 2.0 AMT (231 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>XZGFF07A1TA712718</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>XZGFF07A2TA611218</id>
     <link>https://haval-ulyanovsk.ru/cars/haval-f7x-ii-20-amt-231-hp-4wd-premium-noble-agate-2026/</link>
     <brand>Haval</brand>
