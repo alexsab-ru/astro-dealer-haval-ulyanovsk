@@ -677,6 +677,69 @@
       </images>
     </car>
     <car>
+      <unique_id>EEYFF7A62TA001070</unique_id>
+      <url>https://haval-ulyanovsk.ru/cars/haval-h9-ii-20-at-218-hp-4wd-premium-lunar-basalt-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>H9, II</folder_id>
+      <year>2026</year>
+      <vin>EEYFF7A62TA001070</vin>
+      <price>4751010</price>
+      <sale_price>3998000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753010</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Haval H9, II, Премиум, 2.0 AT (218 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A62TA001070/0/full.webp?v=bfcf1a7ce986</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A62TA001070/1/full.webp?v=b9f34f263877</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EEYFF7A65TA000382</unique_id>
+      <url>https://haval-ulyanovsk.ru/cars/haval-h9-ii-20-at-218-hp-4wd-premium-black-jade-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>H9, II</folder_id>
+      <year>2026</year>
+      <vin>EEYFF7A65TA000382</vin>
+      <price>4751010</price>
+      <sale_price>3998000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>753010</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Haval H9, II, Премиум, 2.0 AT (218 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A65TA000382/0/full.webp?v=a8c672487f0b</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A65TA000382/1/full.webp?v=a57355ca6f11</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EEYFF7A68TA000263</unique_id>
+      <url>https://haval-ulyanovsk.ru/cars/haval-h9-ii-20-at-218-hp-4wd-techno--plus-dusky-emerald-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>H9, II</folder_id>
+      <year>2026</year>
+      <vin>EEYFF7A68TA000263</vin>
+      <price>5246010</price>
+      <sale_price>4494333</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>751677</max_benefit>
+      <color>зеленый</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Haval H9, II, Техно +, 2.0 AT (218 л.с.) 4WD, 2026 г., зеленый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A68TA000263/0/full.webp?v=60c081025632</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A68TA000263/1/full.webp?v=4df5c41a96d1</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LGWFF7A60TJ692187</unique_id>
       <url>https://haval-ulyanovsk.ru/cars/haval-h9-ii-20-at-218-hp-4wd-techno--plus-lunar-basalt-2026/</url>
       <mark_id>Haval</mark_id>
@@ -802,6 +865,8 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A64TJ695237/9/full.webp?v=a05a68f40239</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A64TJ695237/10/full.webp?v=764b39cf05ef</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A64TJ695237/11/full.webp?v=10d870a38c05</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A64TJ695237/12/full.webp?v=3703efa5590d</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A64TJ695237/13/full.webp?v=58fbfb4ffb81</image>
       </images>
     </car>
     <car>
@@ -905,6 +970,8 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A68TJ700987/27/full.webp?v=3decaacf2f4d</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A68TJ700987/28/full.webp?v=fb6b4303f58e</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A68TJ700987/29/full.webp?v=d8f29df79316</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A68TJ700987/30/full.webp?v=243c73ad1a15</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A68TJ700987/31/full.webp?v=f7938e0a2d79</image>
       </images>
     </car>
     <car>
@@ -1530,8 +1597,8 @@
       <images>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA830445/0/full.webp?v=4b93b49f25d0</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA830445/1/full.webp?v=fa6cdd141aff</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA830445/2/full.webp?v=409051e47b2d</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA830445/3/full.webp?v=ea26fa3d2fa2</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA830445/2/full.webp?v=ca0b67e52fff</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA830445/3/full.webp?v=b6d00a1b50bb</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA830445/4/full.webp?v=f44ac6c0f582</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA830445/5/full.webp?v=25f4ae67a075</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA830445/6/full.webp?v=1be8e2c5726d</image>
@@ -1604,8 +1671,8 @@
       <images>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829692/0/full.webp?v=2abb201be371</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829692/1/full.webp?v=111dcce6764d</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829692/2/full.webp?v=800a96269159</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829692/3/full.webp?v=695eeaedb4df</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829692/2/full.webp?v=1bce263b7572</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829692/3/full.webp?v=bd43f8cb7218</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829692/4/full.webp?v=e4dff6a36e91</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829692/5/full.webp?v=6045bd88d722</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829692/6/full.webp?v=10421cd01bc0</image>
@@ -1633,8 +1700,8 @@
       <images>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829823/0/full.webp?v=0a89de7157e9</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829823/1/full.webp?v=111dcce6764d</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829823/2/full.webp?v=800a96269159</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829823/3/full.webp?v=695eeaedb4df</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829823/2/full.webp?v=1bce263b7572</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829823/3/full.webp?v=bd43f8cb7218</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829823/4/full.webp?v=23b054ac6828</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829823/5/full.webp?v=1240e9938489</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829823/6/full.webp?v=5563c2923e9c</image>
@@ -1792,8 +1859,8 @@
       <images>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A3TA830446/0/full.webp?v=fa6cdd141aff</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A3TA830446/1/full.webp?v=4b93b49f25d0</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A3TA830446/2/full.webp?v=ba93310addbf</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A3TA830446/3/full.webp?v=409051e47b2d</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A3TA830446/2/full.webp?v=6b1d8c9dde16</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A3TA830446/3/full.webp?v=ca0b67e52fff</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A3TA830446/4/full.webp?v=74b949d0d695</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A3TA830446/5/full.webp?v=f44ac6c0f582</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A3TA830446/6/full.webp?v=25f4ae67a075</image>
@@ -1899,8 +1966,8 @@
       <images>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A5TA830125/0/full.webp?v=2abb201be371</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A5TA830125/1/full.webp?v=111dcce6764d</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A5TA830125/2/full.webp?v=800a96269159</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A5TA830125/3/full.webp?v=c5f74c555ecd</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A5TA830125/2/full.webp?v=1bce263b7572</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A5TA830125/3/full.webp?v=3ed58625df5b</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A5TA830125/4/full.webp?v=bbbdc8fb49b0</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A5TA830125/5/full.webp?v=5563c2923e9c</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A5TA830125/6/full.webp?v=79cded9072b3</image>
@@ -2261,6 +2328,8 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A9TA829818/7/full.webp?v=10421cd01bc0</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A9TA829818/8/full.webp?v=8af785a683da</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A9TA829818/9/full.webp?v=756879feccb3</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A9TA829818/10/full.webp?v=6f97d7d2f2ef</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A9TA829818/11/full.webp?v=03115aae700f</image>
       </images>
     </car>
     <car>
@@ -3295,6 +3364,27 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A5TA830354/31/full.webp?v=4a8900c31868</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A5TA830354/32/full.webp?v=75caca0e5280</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A5TA830354/33/full.webp?v=0204dba26ddf</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF05A5TA831472</unique_id>
+      <url>https://haval-ulyanovsk.ru/cars/haval-h3-i-facelift-15-amt-177-hp-4wd-optimum-20t-at-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>H3, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>XZGFF05A5TA831472</vin>
+      <price>3068010</price>
+      <sale_price>2453010</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>615000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Haval H3, I Рестайлинг, Оптимум, 1.5 AMT (177 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A5TA831472/0/full.webp?v=1aa8c904c049</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A5TA831472/1/full.webp?v=772bda851390</image>
       </images>
     </car>
     <car>

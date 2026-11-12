@@ -485,6 +485,75 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>EEYFF7A62TA001070</id>
+    <link>https://haval-ulyanovsk.ru/cars/haval-h9-ii-20-at-218-hp-4wd-premium-lunar-basalt-2026/</link>
+    <brand>Haval</brand>
+    <model>H9, II</model>
+    <year>2026</year>
+    <title>Haval H9, II Премиум 2026</title>
+    <image_link>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A62TA001070/0/full.webp?v=bfcf1a7ce986</image_link>
+    <price>4751010 RUB</price>
+    <sale_price>3998000 RUB</sale_price>
+    <min_price>3998000 RUB</min_price>
+    <max_price>4751010 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval H9, II, Премиум, 2.0 AT (218 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EEYFF7A62TA001070</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EEYFF7A65TA000382</id>
+    <link>https://haval-ulyanovsk.ru/cars/haval-h9-ii-20-at-218-hp-4wd-premium-black-jade-2026/</link>
+    <brand>Haval</brand>
+    <model>H9, II</model>
+    <year>2026</year>
+    <title>Haval H9, II Премиум 2026</title>
+    <image_link>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A65TA000382/0/full.webp?v=a8c672487f0b</image_link>
+    <price>4751010 RUB</price>
+    <sale_price>3998000 RUB</sale_price>
+    <min_price>3998000 RUB</min_price>
+    <max_price>4751010 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval H9, II, Премиум, 2.0 AT (218 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EEYFF7A65TA000382</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>EEYFF7A68TA000263</id>
+    <link>https://haval-ulyanovsk.ru/cars/haval-h9-ii-20-at-218-hp-4wd-techno--plus-dusky-emerald-2026/</link>
+    <brand>Haval</brand>
+    <model>H9, II</model>
+    <year>2026</year>
+    <title>Haval H9, II Техно + 2026</title>
+    <image_link>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A68TA000263/0/full.webp?v=60c081025632</image_link>
+    <price>5246010 RUB</price>
+    <sale_price>4494333 RUB</sale_price>
+    <min_price>4494333 RUB</min_price>
+    <max_price>5246010 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval H9, II, Техно +, 2.0 AT (218 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Зеленый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EEYFF7A68TA000263</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>LGWFF7A60TJ692187</id>
     <link>https://haval-ulyanovsk.ru/cars/haval-h9-ii-20-at-218-hp-4wd-techno--plus-lunar-basalt-2026/</link>
     <brand>Haval</brand>
@@ -2160,6 +2229,29 @@
       <unit>KM</unit>
     </mileage>
     <vin>XZGFF05A5TA830354</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>XZGFF05A5TA831472</id>
+    <link>https://haval-ulyanovsk.ru/cars/haval-h3-i-facelift-15-amt-177-hp-4wd-optimum-20t-at-galactic-black-2026/</link>
+    <brand>Haval</brand>
+    <model>H3, I Рестайлинг</model>
+    <year>2026</year>
+    <title>Haval H3, I Рестайлинг Оптимум 2026</title>
+    <image_link>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A5TA831472/0/full.webp?v=1aa8c904c049</image_link>
+    <price>3068010 RUB</price>
+    <sale_price>2453010 RUB</sale_price>
+    <min_price>2453010 RUB</min_price>
+    <max_price>3068010 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval H3, I Рестайлинг, Оптимум, 1.5 AMT (177 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>XZGFF05A5TA831472</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
