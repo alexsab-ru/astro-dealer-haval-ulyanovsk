@@ -34,39 +34,6 @@
       </images>
     </car>
     <car>
-      <unique_id>EC2EF4A51TA022112</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>M6, II</folder_id>
-      <year>2026</year>
-      <vin>EC2EF4A51TA022112</vin>
-      <price>2325510</price>
-      <sale_price>2068500</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>257010</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A51TA022112/0/full.webp?v=57a8273bc236</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A51TA022112/1/full.webp?v=658b1748f583</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A51TA022112/2/full.webp?v=bc99a546bdc1</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A51TA022112/3/full.webp?v=4105beb31c8b</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A51TA022112/4/full.webp?v=4617bddbf064</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A51TA022112/5/full.webp?v=152932b0379a</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A51TA022112/6/full.webp?v=10e7a4eb5cb5</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A51TA022112/7/full.webp?v=950154dafcb9</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A51TA022112/8/full.webp?v=25e5a001e00a</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A51TA022112/9/full.webp?v=95a4c7083c18</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A51TA022112/10/full.webp?v=f797540e85a4</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A51TA022112/11/full.webp?v=480f4c80b2bc</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A51TA022112/12/full.webp?v=9079b859dc1d</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A51TA022112/13/full.webp?v=0dbe1feabaab</image>
-      </images>
-    </car>
-    <car>
       <unique_id>EC2EF4A51TA022997</unique_id>
       <url>https://haval-ulyanovsk.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</url>
       <mark_id>Haval</mark_id>
@@ -235,39 +202,6 @@
       </images>
     </car>
     <car>
-      <unique_id>EC2EF4A54TA024355</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-white-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>M6, II</folder_id>
-      <year>2026</year>
-      <vin>EC2EF4A54TA024355</vin>
-      <price>2325510</price>
-      <sale_price>2068500</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>257010</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A54TA024355/0/full.webp?v=d733247a8fdd</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A54TA024355/1/full.webp?v=28d953532047</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A54TA024355/2/full.webp?v=078f173bc972</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A54TA024355/3/full.webp?v=ad2f9a7db10a</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A54TA024355/4/full.webp?v=223f7f79f63d</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A54TA024355/5/full.webp?v=a86f711c1a47</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A54TA024355/6/full.webp?v=b01545f9bc36</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A54TA024355/7/full.webp?v=669b4883548a</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A54TA024355/8/full.webp?v=d78fd7aba6d7</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A54TA024355/9/full.webp?v=5053f0b496b7</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A54TA024355/10/full.webp?v=8f1b072af6e4</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A54TA024355/11/full.webp?v=d919574a1f80</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A54TA024355/12/full.webp?v=7fc6ce7e12aa</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A54TA024355/13/full.webp?v=c088ac8119e3</image>
-      </images>
-    </car>
-    <car>
       <unique_id>EC2EF4A54TA026784</unique_id>
       <url>https://haval-ulyanovsk.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-gray-2026/</url>
       <mark_id>Haval</mark_id>
@@ -359,69 +293,6 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A56TA025717/9/full.webp?v=73e08d7c6af0</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A56TA025717/10/full.webp?v=80a254385038</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A56TA025717/11/full.webp?v=09711d84775f</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>EC2EF4A56TA031971</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-m6-ii-15-mt-143-hp-optimum-20t-at-2026-black-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>M6, II</folder_id>
-      <year>2026</year>
-      <vin>EC2EF4A56TA031971</vin>
-      <price>2078010</price>
-      <sale_price>1827500</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>250510</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 MT (143 л.с.), 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A56TA031971/0/full.webp?v=2908c58ad97a</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A56TA031971/1/full.webp?v=c9602b9aa68e</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A56TA031971/2/full.webp?v=9bd4651bbcd5</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A56TA031971/3/full.webp?v=b4599b3a7221</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A56TA031971/4/full.webp?v=02bd57daee0f</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A56TA031971/5/full.webp?v=05b3d249dbd5</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A56TA031971/6/full.webp?v=7bfee0d04db6</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A56TA031971/7/full.webp?v=76859f91dd83</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A56TA031971/8/full.webp?v=ba762250b559</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>EC2EF4A58TA021040</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-m6-ii-15-amt-143-hp-optimum-20t-at-2026-black-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>M6, II</folder_id>
-      <year>2026</year>
-      <vin>EC2EF4A58TA021040</vin>
-      <price>2325510</price>
-      <sale_price>2068500</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>257010</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval M6, II, Оптимум (2026), 1.5 AMT (143 л.с.), 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A58TA021040/0/full.webp?v=379611b69a39</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A58TA021040/1/full.webp?v=d6b022aba4ae</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A58TA021040/2/full.webp?v=30f099240950</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A58TA021040/3/full.webp?v=90c9b8d57452</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A58TA021040/4/full.webp?v=67fcde985ba5</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A58TA021040/5/full.webp?v=c29ab5a93751</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A58TA021040/6/full.webp?v=e1cf6e3b5d8f</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A58TA021040/7/full.webp?v=a6d7c5c1e97a</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A58TA021040/8/full.webp?v=b7aa3306d25f</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A58TA021040/9/full.webp?v=2a437561ab67</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A58TA021040/10/full.webp?v=3e591e328556</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A58TA021040/11/full.webp?v=c9e9b5e50aff</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A58TA021040/12/full.webp?v=a0620142fe62</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A58TA021040/13/full.webp?v=744eea4bb91b</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A58TA021040/14/full.webp?v=507cde5df76a</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EC2EF4A58TA021040/15/full.webp?v=e3a8626a71fb</image>
       </images>
     </car>
     <car>
@@ -711,6 +582,8 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A62TA001070/15/full.webp?v=33bee85a1a25</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A62TA001070/16/full.webp?v=fb10bac6213c</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A62TA001070/17/full.webp?v=2708ba074dd3</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A62TA001070/18/full.webp?v=0a3a2b7be3e0</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A62TA001070/19/full.webp?v=33dc8a81b709</image>
       </images>
     </car>
     <car>
@@ -731,10 +604,10 @@
       <description>Автомобиль Haval H9, II, Премиум, 2.0 AT (218 л.с.) 4WD, 2026 г., черный</description>
       <images>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A65TA000382/0/full.webp?v=a8c672487f0b</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A65TA000382/1/full.webp?v=a57355ca6f11</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A65TA000382/1/full.webp?v=defb80ba288e</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A65TA000382/2/full.webp?v=ff40ab9a0662</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A65TA000382/3/full.webp?v=5a11fa3202a9</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A65TA000382/4/full.webp?v=23c7a7e08b8f</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A65TA000382/4/full.webp?v=fc980dc0c1bd</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A65TA000382/5/full.webp?v=a8db2f5db479</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A65TA000382/6/full.webp?v=de5e07b9cc99</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A65TA000382/7/full.webp?v=c716c832dd07</image>
@@ -785,6 +658,8 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A68TA000263/15/full.webp?v=e5622447e885</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A68TA000263/16/full.webp?v=669e594e2064</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A68TA000263/17/full.webp?v=da18074524ba</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A68TA000263/18/full.webp?v=e716f2ef450c</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A68TA000263/19/full.webp?v=ba1696a63735</image>
       </images>
     </car>
     <car>
@@ -946,10 +821,10 @@
       <description>Автомобиль Haval H9, II, Премиум, 2.0 AT (218 л.с.) 4WD, 2026 г., черный</description>
       <images>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A68TJ691823/0/full.webp?v=a8c672487f0b</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A68TJ691823/1/full.webp?v=a57355ca6f11</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A68TJ691823/1/full.webp?v=defb80ba288e</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A68TJ691823/2/full.webp?v=983abd9377cc</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A68TJ691823/3/full.webp?v=ff40ab9a0662</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A68TJ691823/4/full.webp?v=b27029120921</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A68TJ691823/4/full.webp?v=477c19a61bde</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A68TJ691823/5/full.webp?v=23c7a7e08b8f</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A68TJ691823/6/full.webp?v=a8db2f5db479</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/LGWFF7A68TJ691823/7/full.webp?v=de5e07b9cc99</image>
@@ -1312,41 +1187,6 @@
       </images>
     </car>
     <car>
-      <unique_id>XZGEE04A5TA593090</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-facelift-2-15-mt-143-hp-comfort-galactic-black-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг 2</folder_id>
-      <year>2026</year>
-      <vin>XZGEE04A5TA593090</vin>
-      <price>2078010</price>
-      <sale_price>1797500</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>280510</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Комфорт, 1.5 MT (143 л.с.), 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A5TA593090/0/full.webp?v=b8a5e9347eb1</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A5TA593090/1/full.webp?v=f59e5f0e9120</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A5TA593090/2/full.webp?v=d6d899aba355</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A5TA593090/3/full.webp?v=9c39590335ed</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A5TA593090/4/full.webp?v=1c1549eb4f68</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A5TA593090/5/full.webp?v=ecd35b90444f</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A5TA593090/6/full.webp?v=69bb798d3105</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A5TA593090/7/full.webp?v=ccbd8d827e20</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A5TA593090/8/full.webp?v=78b16e13fa68</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A5TA593090/9/full.webp?v=230e8a6ecaef</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A5TA593090/10/full.webp?v=30427371c76f</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A5TA593090/11/full.webp?v=c63d70a754e7</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A5TA593090/12/full.webp?v=a646ce7c4b95</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A5TA593090/13/full.webp?v=92feb8c0521d</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A5TA593090/14/full.webp?v=2b57d7bbddac</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A5TA593090/15/full.webp?v=833f7ede4608</image>
-      </images>
-    </car>
-    <car>
       <unique_id>XZGEE04A7TA594516</unique_id>
       <url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-galactic-black-2026/</url>
       <mark_id>Haval</mark_id>
@@ -1407,83 +1247,6 @@
       </images>
     </car>
     <car>
-      <unique_id>XZGEE04A8TA594542</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-galactic-black-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг 2</folder_id>
-      <year>2026</year>
-      <vin>XZGEE04A8TA594542</vin>
-      <price>2474010</price>
-      <sale_price>2175500</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>298510</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A8TA594542/0/full.webp?v=66bf9202b809</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A8TA594542/1/full.webp?v=8cb9117c45ce</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A8TA594542/2/full.webp?v=f823f5b2fa59</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A8TA594542/3/full.webp?v=2248e2b5065a</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A8TA594542/4/full.webp?v=9c27d634777b</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A8TA594542/5/full.webp?v=9b39a8816ee2</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A8TA594542/6/full.webp?v=8d21efb6288d</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>XZGEE04A8TA597814</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-galactic-black-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг 2</folder_id>
-      <year>2026</year>
-      <vin>XZGEE04A8TA597814</vin>
-      <price>2474010</price>
-      <sale_price>2175500</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>298510</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A8TA597814/0/full.webp?v=11b9f541af79</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A8TA597814/1/full.webp?v=a126856eb8d9</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A8TA597814/2/full.webp?v=a7263155e4c5</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A8TA597814/3/full.webp?v=7ac526fdce1e</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A8TA597814/4/full.webp?v=13a104091d7c</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A8TA597814/5/full.webp?v=582224d55e8e</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A8TA597814/6/full.webp?v=eba66b35e26a</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>XZGEE04A9TA595585</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-facelift-2-15-amt-143-hp-optimum-20t-at-smoky-pearls-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг 2</folder_id>
-      <year>2026</year>
-      <vin>XZGEE04A9TA595585</vin>
-      <price>2474010</price>
-      <sale_price>2175500</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>298510</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (143 л.с.), 2026 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A9TA595585/0/full.webp?v=27d292fbafbd</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A9TA595585/1/full.webp?v=f164d1f17191</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A9TA595585/2/full.webp?v=166e8ecf080d</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A9TA595585/3/full.webp?v=500237eb5ec9</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A9TA595585/4/full.webp?v=da6f4c56bf00</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04A9TA595585/5/full.webp?v=bdccd854093b</image>
-      </images>
-    </car>
-    <car>
       <unique_id>XZGEE04AXTA594316</unique_id>
       <url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-facelift-2-15-mt-143-hp-comfort-noble-agate-2026/</url>
       <mark_id>Haval</mark_id>
@@ -1508,41 +1271,6 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA594316/5/full.webp?v=ffc7db09e68f</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA594316/6/full.webp?v=9ca7d9d662c4</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA594316/7/full.webp?v=889fbfb1cad3</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>XZGEE04AXTA597054</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-facelift-2-15-mt-143-hp-comfort-noble-agate-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг 2</folder_id>
-      <year>2026</year>
-      <vin>XZGEE04AXTA597054</vin>
-      <price>2078010</price>
-      <sale_price>1797500</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>280510</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Комфорт, 1.5 MT (143 л.с.), 2026 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA597054/0/full.webp?v=488ded5b7cc0</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA597054/1/full.webp?v=0275d372a288</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA597054/2/full.webp?v=81982f743f37</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA597054/3/full.webp?v=c997bf749434</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA597054/4/full.webp?v=f8947609a34b</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA597054/5/full.webp?v=0c614c55ac89</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA597054/6/full.webp?v=5f0e1049d7e9</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA597054/7/full.webp?v=0efbbaa935dc</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA597054/8/full.webp?v=268edfe0554b</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA597054/9/full.webp?v=8c31bf6cd59d</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA597054/10/full.webp?v=e6f65f5c2fad</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA597054/11/full.webp?v=2a54fab39e72</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA597054/12/full.webp?v=0caa8faaa40c</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA597054/13/full.webp?v=7d016f15b358</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA597054/14/full.webp?v=b08de1c72cd7</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEE04AXTA597054/15/full.webp?v=8f9980cde98b</image>
       </images>
     </car>
     <car>
@@ -1573,69 +1301,6 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A0TA316165/8/full.webp?v=03a60b963cc9</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A0TA316165/9/full.webp?v=c67cefe18e9a</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A0TA316165/10/full.webp?v=53bc593561ce</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>XZGEF04A0TA319101</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-15-amt-150-hp-premium-2026-galactic-black-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>F7, II</folder_id>
-      <year>2026</year>
-      <vin>XZGEF04A0TA319101</vin>
-      <price>3167010</price>
-      <sale_price>2812510</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>354500</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval F7, II, Премиум (2026), 1.5 AMT (150 л.с.), 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A0TA319101/0/full.webp?v=90d8c0a8fd9d</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A0TA319101/1/full.webp?v=163be891d667</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A0TA319101/2/full.webp?v=f36db950e861</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A0TA319101/3/full.webp?v=819131f1b004</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A0TA319101/4/full.webp?v=823d5ef3caca</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A0TA319101/5/full.webp?v=963d63def525</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A0TA319101/6/full.webp?v=9fd53a245deb</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A0TA319101/7/full.webp?v=9e2b905ad1e3</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A0TA319101/8/full.webp?v=4d3462dd8419</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A0TA319101/9/full.webp?v=c549f8dba74d</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A0TA319101/10/full.webp?v=33b18efffcc2</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A0TA319101/11/full.webp?v=bda00fd1b738</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>XZGEF04A1TA316563</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-15-amt-150-hp-premium-2026-oceanic-lapis-lazuli-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>F7, II</folder_id>
-      <year>2026</year>
-      <vin>XZGEF04A1TA316563</vin>
-      <price>3167010</price>
-      <sale_price>2812510</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>354500</max_benefit>
-      <color>синий</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval F7, II, Премиум (2026), 1.5 AMT (150 л.с.), 2026 г., синий</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA316563/0/full.webp?v=c8a355b237d5</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA316563/1/full.webp?v=adc0ff52bae6</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA316563/2/full.webp?v=153dc91c79a0</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA316563/3/full.webp?v=c40ccc7bbcee</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA316563/4/full.webp?v=fe36ae338202</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA316563/5/full.webp?v=f4129388e891</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA316563/6/full.webp?v=e54d8bd091a3</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA316563/7/full.webp?v=b95de822e586</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA316563/8/full.webp?v=3071965cf51c</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA316563/9/full.webp?v=f3b8f228f063</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA316563/10/full.webp?v=c13a66019422</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA316563/11/full.webp?v=c717084149d1</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A1TA316563/12/full.webp?v=c88249d2c50f</image>
       </images>
     </car>
     <car>
@@ -1690,29 +1355,6 @@
       </images>
     </car>
     <car>
-      <unique_id>XZGEF04A2TA318399</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-15-amt-150-hp-optimum-20t-at-2026-galactic-black-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>F7, II</folder_id>
-      <year>2026</year>
-      <vin>XZGEF04A2TA318399</vin>
-      <price>2969010</price>
-      <sale_price>2699000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>270010</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA318399/0/full.webp?v=53f295c0d7cd</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA318399/1/full.webp?v=4a01026f4530</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA318399/2/full.webp?v=28a12149f84e</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA318399/3/full.webp?v=746e3b263e05</image>
-      </images>
-    </car>
-    <car>
       <unique_id>XZGEF04A2TA829692</unique_id>
       <url>https://haval-ulyanovsk.ru/cars/haval-h3-i-facelift-15-amt-143-hp-optimum-20t-at-ashy-anthracite-2026/</url>
       <mark_id>Haval</mark_id>
@@ -1755,6 +1397,8 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829692/23/full.webp?v=8ccf474ba49c</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829692/24/full.webp?v=8d8a1b9bdd86</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829692/25/full.webp?v=c48d36482c28</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829692/26/full.webp?v=a03de2b295c8</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829692/27/full.webp?v=3617b29050cf</image>
       </images>
     </car>
     <car>
@@ -1800,6 +1444,8 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829823/23/full.webp?v=513296e6edc0</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829823/24/full.webp?v=4f20edbb1cbc</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829823/25/full.webp?v=91377fcafef5</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829823/26/full.webp?v=3b40eec152b1</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A2TA829823/27/full.webp?v=8ccf474ba49c</image>
       </images>
     </car>
     <car>
@@ -1858,12 +1504,12 @@
       </images>
     </car>
     <car>
-      <unique_id>XZGEF04A3TA319870</unique_id>
+      <unique_id>XZGEF04A3TA318332</unique_id>
       <url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-15-amt-150-hp-optimum-20t-at-2026-smoky-pearls-2026/</url>
       <mark_id>Haval</mark_id>
       <folder_id>F7, II</folder_id>
       <year>2026</year>
-      <vin>XZGEF04A3TA319870</vin>
+      <vin>XZGEF04A3TA318332</vin>
       <price>2969010</price>
       <sale_price>2699000</sale_price>
       <currency>RUR</currency>
@@ -1874,10 +1520,8 @@
       <run>0</run>
       <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A3TA319870/0/full.webp?v=e2db3ce15b00</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A3TA319870/1/full.webp?v=c04019c7fe71</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A3TA319870/2/full.webp?v=1fddfc8b2bae</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A3TA319870/3/full.webp?v=0e6a3e1f0bbb</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A3TA318332/0/full.webp?v=86db4dc3cd64</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A3TA318332/1/full.webp?v=8f6f5b05010c</image>
       </images>
     </car>
     <car>
@@ -2147,58 +1791,6 @@
       </images>
     </car>
     <car>
-      <unique_id>XZGEF04A7TA316079</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-15-amt-150-hp-optimum-20t-at-2026-oceanic-lapis-lazuli-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>F7, II</folder_id>
-      <year>2026</year>
-      <vin>XZGEF04A7TA316079</vin>
-      <price>2969010</price>
-      <sale_price>2699000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>270010</max_benefit>
-      <color>синий</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., синий</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA316079/0/full.webp?v=4ab1514c9dc4</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA316079/1/full.webp?v=59e420dc448b</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA316079/2/full.webp?v=2a04a386a62f</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA316079/3/full.webp?v=e0c84b63785c</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA316079/4/full.webp?v=85c0aa61ab13</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>XZGEF04A7TA316518</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-15-amt-150-hp-premium-2026-smoky-pearls-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>F7, II</folder_id>
-      <year>2026</year>
-      <vin>XZGEF04A7TA316518</vin>
-      <price>3167010</price>
-      <sale_price>2812510</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>354500</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval F7, II, Премиум (2026), 1.5 AMT (150 л.с.), 2026 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA316518/0/full.webp?v=089bed42b042</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA316518/1/full.webp?v=ba794cfd54bb</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA316518/2/full.webp?v=5e589f6545cc</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA316518/3/full.webp?v=87cee6aca70c</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA316518/4/full.webp?v=4f322005124e</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA316518/5/full.webp?v=974b8d0b7b8d</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA316518/6/full.webp?v=8cf93df4b29f</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA316518/7/full.webp?v=669d8fb30c8e</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA316518/8/full.webp?v=eaed9e5448dd</image>
-      </images>
-    </car>
-    <car>
       <unique_id>XZGEF04A7TA829803</unique_id>
       <url>https://haval-ulyanovsk.ru/cars/haval-h3-i-facelift-15-amt-143-hp-optimum-20t-at-noble-agate-2026/</url>
       <mark_id>Haval</mark_id>
@@ -2251,39 +1843,6 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA829803/33/full.webp?v=ae53141e3bcd</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA829803/34/full.webp?v=b48e1208fcb3</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A7TA829803/35/full.webp?v=e534e564fe6e</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>XZGEF04A8TA316978</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-15-amt-150-hp-optimum-20t-at-2026-noble-agate-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>F7, II</folder_id>
-      <year>2026</year>
-      <vin>XZGEF04A8TA316978</vin>
-      <price>2969010</price>
-      <sale_price>2699000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>270010</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval F7, II, Оптимум (2026), 1.5 AMT (150 л.с.), 2026 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA316978/0/full.webp?v=b5d86b1a4ab6</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA316978/1/full.webp?v=590019f96231</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA316978/2/full.webp?v=2a1839fc11fd</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA316978/3/full.webp?v=471e150094fb</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA316978/4/full.webp?v=01d7d945b809</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA316978/5/full.webp?v=82c93c20f4ee</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA316978/6/full.webp?v=119eee91fc33</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA316978/7/full.webp?v=f31e6b79bb68</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA316978/8/full.webp?v=1d8085f41cc9</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA316978/9/full.webp?v=9f066348dfa3</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA316978/10/full.webp?v=2e8a2f7c6542</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA316978/11/full.webp?v=bf2187f4f891</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA316978/12/full.webp?v=ce0b444904db</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A8TA316978/13/full.webp?v=e7e77b2348cd</image>
       </images>
     </car>
     <car>
@@ -2438,6 +1997,8 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A9TA829818/25/full.webp?v=8ccf474ba49c</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A9TA829818/26/full.webp?v=8d8a1b9bdd86</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A9TA829818/27/full.webp?v=c48d36482c28</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A9TA829818/28/full.webp?v=a03de2b295c8</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGEF04A9TA829818/29/full.webp?v=3617b29050cf</image>
       </images>
     </car>
     <car>
@@ -2525,11 +2086,11 @@
       <folder_id>Jolion, I Рестайлинг 2</folder_id>
       <year>2026</year>
       <vin>XZGFE04A0TA598718</vin>
-      <price>2771010</price>
-      <sale_price>2470000</sale_price>
+      <price>2820510</price>
+      <sale_price>2510000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>301010</max_benefit>
+      <max_benefit>310510</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <run>0</run>
@@ -2574,41 +2135,6 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA587610/4/full.webp?v=7cf687c08f02</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA587610/5/full.webp?v=d2d68634b9f8</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA587610/6/full.webp?v=41e200e895a7</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>XZGFE04A2TA589292</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-techno-plus-noble-agate-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг 2</folder_id>
-      <year>2026</year>
-      <vin>XZGFE04A2TA589292</vin>
-      <price>2919510</price>
-      <sale_price>2618500</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>301010</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Техно+, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA589292/0/full.webp?v=f20d2fdd9ff3</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA589292/1/full.webp?v=d9770f6a6dc0</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA589292/2/full.webp?v=e7bd4cf9b285</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA589292/3/full.webp?v=b6e21429a6f1</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA589292/4/full.webp?v=71c75d5c3bf9</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA589292/5/full.webp?v=9ae26ce2e12d</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA589292/6/full.webp?v=8d7f954f8936</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA589292/7/full.webp?v=8ba948a27eb7</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA589292/8/full.webp?v=d5381ae5552d</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA589292/9/full.webp?v=3750ed404242</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA589292/10/full.webp?v=182abf859c0b</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA589292/11/full.webp?v=bc198c466fc7</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA589292/12/full.webp?v=bf09001b9cc4</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA589292/13/full.webp?v=1997efe79b6d</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA589292/14/full.webp?v=4b3ccf437c06</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A2TA589292/15/full.webp?v=29fef0895cbc</image>
       </images>
     </car>
     <car>
@@ -2663,39 +2189,6 @@
       </images>
     </car>
     <car>
-      <unique_id>XZGFE04A3TA597174</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-premium-galactic-black-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг 2</folder_id>
-      <year>2026</year>
-      <vin>XZGFE04A3TA597174</vin>
-      <price>2771010</price>
-      <sale_price>2470000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>301010</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A3TA597174/0/full.webp?v=dd85c71d8bce</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A3TA597174/1/full.webp?v=fdb970900d5e</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A3TA597174/2/full.webp?v=65e0d1cf4848</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A3TA597174/3/full.webp?v=133de3d0e5f3</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A3TA597174/4/full.webp?v=bfbcd49356d8</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A3TA597174/5/full.webp?v=226773100394</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A3TA597174/6/full.webp?v=231699f48ec5</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A3TA597174/7/full.webp?v=99bc9811ff86</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A3TA597174/8/full.webp?v=e784d36f51ef</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A3TA597174/9/full.webp?v=b3011d1f627b</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A3TA597174/10/full.webp?v=f6b38db75a0f</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A3TA597174/11/full.webp?v=f5ef4fd64ae2</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A3TA597174/12/full.webp?v=8df434056dfe</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A3TA597174/13/full.webp?v=1fb44fb8e2a0</image>
-      </images>
-    </car>
-    <car>
       <unique_id>XZGFE04A3TA597529</unique_id>
       <url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-galactic-black-2026/</url>
       <mark_id>Haval</mark_id>
@@ -2728,11 +2221,11 @@
       <folder_id>Jolion, I Рестайлинг 2</folder_id>
       <year>2026</year>
       <vin>XZGFE04A4TA588760</vin>
-      <price>2771010</price>
-      <sale_price>2470000</sale_price>
+      <price>2820510</price>
+      <sale_price>2510000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>301010</max_benefit>
+      <max_benefit>310510</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <run>0</run>
@@ -2792,11 +2285,11 @@
       <folder_id>Jolion, I Рестайлинг 2</folder_id>
       <year>2026</year>
       <vin>XZGFE04A5TA597628</vin>
-      <price>2771010</price>
-      <sale_price>2470000</sale_price>
+      <price>2820510</price>
+      <sale_price>2510000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>301010</max_benefit>
+      <max_benefit>310510</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <run>0</run>
@@ -2850,11 +2343,11 @@
       <folder_id>Jolion, I Рестайлинг 2</folder_id>
       <year>2026</year>
       <vin>XZGFE04A6TA594964</vin>
-      <price>2771010</price>
-      <sale_price>2470000</sale_price>
+      <price>2820510</price>
+      <sale_price>2510000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>301010</max_benefit>
+      <max_benefit>310510</max_benefit>
       <color>голубой</color>
       <availability>В наличии</availability>
       <run>0</run>
@@ -2901,11 +2394,11 @@
       <folder_id>Jolion, I Рестайлинг 2</folder_id>
       <year>2026</year>
       <vin>XZGFE04A7TA591166</vin>
-      <price>2771010</price>
-      <sale_price>2470000</sale_price>
+      <price>2820510</price>
+      <sale_price>2510000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>301010</max_benefit>
+      <max_benefit>310510</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <run>0</run>
@@ -2924,32 +2417,6 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A7TA591166/10/full.webp?v=5d6967880fba</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A7TA591166/11/full.webp?v=924dd69c47f9</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A7TA591166/12/full.webp?v=f7b0429f3f7d</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>XZGFE04A8TA581553</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-optimum-20t-at-galactic-black-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг 2</folder_id>
-      <year>2026</year>
-      <vin>XZGFE04A8TA581553</vin>
-      <price>2622510</price>
-      <sale_price>2369000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>253510</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Оптимум, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A8TA581553/0/full.webp?v=f3aa84f34ef7</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A8TA581553/1/full.webp?v=933eec1c8394</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A8TA581553/2/full.webp?v=17b38d010031</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A8TA581553/3/full.webp?v=24479e9eced9</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A8TA581553/4/full.webp?v=0d1a4e3038e9</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A8TA581553/5/full.webp?v=0d2dfcf19e66</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04A8TA581553/6/full.webp?v=7c7b512149fb</image>
       </images>
     </car>
     <car>
@@ -3064,30 +2531,6 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04AXTA593882/4/full.webp?v=4dfcbca8831f</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04AXTA593882/5/full.webp?v=7e5dc4705175</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04AXTA593882/6/full.webp?v=da25e3f6da88</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>XZGFE04AXTA594997</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-jolion-i-facelift-2-15-amt-150-hp-4wd-premium-heavenly-topaz-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>Jolion, I Рестайлинг 2</folder_id>
-      <year>2026</year>
-      <vin>XZGFE04AXTA594997</vin>
-      <price>2771010</price>
-      <sale_price>2470000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>301010</max_benefit>
-      <color>голубой</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval Jolion, I Рестайлинг 2, Премиум, 1.5 AMT (150 л.с.) 4WD, 2026 г., голубой</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04AXTA594997/0/full.webp?v=f1a2646d35e3</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04AXTA594997/1/full.webp?v=be67cbf1e721</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04AXTA594997/2/full.webp?v=0ff463e4b14e</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04AXTA594997/3/full.webp?v=76595704bc5b</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFE04AXTA594997/4/full.webp?v=e16872976239</image>
       </images>
     </car>
     <car>
@@ -3428,6 +2871,8 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A5TA831472/15/full.webp?v=695a6b1bbf1b</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A5TA831472/16/full.webp?v=97e7d4c31f5d</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A5TA831472/17/full.webp?v=1b2701da6767</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A5TA831472/18/full.webp?v=a67e5f71897a</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF05A5TA831472/19/full.webp?v=502f2036c741</image>
       </images>
     </car>
     <car>
@@ -3614,38 +3059,6 @@
       </images>
     </car>
     <car>
-      <unique_id>XZGFF06A1TA944446</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-dargo-i-facelift-20-amt-200-hp-4wd-techno--plus-galactic-black-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>Dargo, I Рестайлинг</folder_id>
-      <year>2026</year>
-      <vin>XZGFF06A1TA944446</vin>
-      <price>3860010</price>
-      <sale_price>3559999</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>300011</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval Dargo, I Рестайлинг, Техно +, 2.0 AMT (200 л.с.) 4WD, 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A1TA944446/0/full.webp?v=abfa2f4717cc</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A1TA944446/1/full.webp?v=9a7955250cbe</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A1TA944446/2/full.webp?v=1c562a7d4df2</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A1TA944446/3/full.webp?v=bc58610b99e1</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A1TA944446/4/full.webp?v=9a724014834f</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A1TA944446/5/full.webp?v=bfce016b9c09</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A1TA944446/6/full.webp?v=7ea5cb71b3ae</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A1TA944446/7/full.webp?v=21ecadd07de2</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A1TA944446/8/full.webp?v=02cacce6c429</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A1TA944446/9/full.webp?v=df213bd0af9f</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A1TA944446/10/full.webp?v=e8a055213d10</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A1TA944446/11/full.webp?v=8d347440c5ec</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A1TA944446/12/full.webp?v=59786479491a</image>
-      </images>
-    </car>
-    <car>
       <unique_id>XZGFF06A2TA315813</unique_id>
       <url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-20-amt-200-hp-4wd-premium-2026-smoky-pearls-2026/</url>
       <mark_id>Haval</mark_id>
@@ -3670,131 +3083,6 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A2TA315813/5/full.webp?v=768200a1dbc6</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A2TA315813/6/full.webp?v=f9023efa9df4</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A2TA315813/7/full.webp?v=67ef970bafd4</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>XZGFF06A3TA316212</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-20-amt-200-hp-4wd-techno--plus-2026-galactic-black-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>F7, II</folder_id>
-      <year>2026</year>
-      <vin>XZGFF06A3TA316212</vin>
-      <price>3761010</price>
-      <sale_price>3448500</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>312510</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval F7, II, Техно + (2026), 2.0 AMT (200 л.с.) 4WD, 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA316212/0/full.webp?v=f7496e0bb4f6</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA316212/1/full.webp?v=88571c3c529a</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA316212/2/full.webp?v=219aef9efaf4</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA316212/3/full.webp?v=4940a55d10f2</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA316212/4/full.webp?v=a1cf9b7d08d2</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA316212/5/full.webp?v=1b33bb484fba</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA316212/6/full.webp?v=f335c829f7e5</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA316212/7/full.webp?v=ff61a4f4e61f</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA316212/8/full.webp?v=5df438e34481</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA316212/9/full.webp?v=7b277784e4db</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA316212/10/full.webp?v=15d263303115</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA316212/11/full.webp?v=1e21210fda27</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA316212/12/full.webp?v=f046830e2cc9</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA316212/13/full.webp?v=bb36ba6f02b9</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA316212/14/full.webp?v=f776c933b217</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA316212/15/full.webp?v=adb2a6808661</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>XZGFF06A3TA939670</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-dargo-i-facelift-20-amt-200-hp-4wd-premium-graphite-quartz-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>Dargo, I Рестайлинг</folder_id>
-      <year>2026</year>
-      <vin>XZGFF06A3TA939670</vin>
-      <price>3662010</price>
-      <sale_price>3286500</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>375510</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval Dargo, I Рестайлинг, Премиум, 2.0 AMT (200 л.с.) 4WD, 2026 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939670/0/full.webp?v=8b8bd0a3cfd5</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939670/1/full.webp?v=5495a7f647fe</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939670/2/full.webp?v=26d2e77be698</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939670/3/full.webp?v=8455ce782541</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939670/4/full.webp?v=e7a86a6fe46d</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939670/5/full.webp?v=73bea47e4135</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939670/6/full.webp?v=c064f715bfce</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939670/7/full.webp?v=904bec23fbfb</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939670/8/full.webp?v=e15cc2f509b8</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939670/9/full.webp?v=77c841fb7315</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939670/10/full.webp?v=0dde2d0501a2</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939670/11/full.webp?v=e15695b9b99b</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939670/12/full.webp?v=d2dfcca2a33a</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939670/13/full.webp?v=5007d0b78b80</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>XZGFF06A3TA939989</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-dargo-i-facelift-20-amt-200-hp-4wd-techno--plus-terracotta-sapphire-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>Dargo, I Рестайлинг</folder_id>
-      <year>2026</year>
-      <vin>XZGFF06A3TA939989</vin>
-      <price>3860010</price>
-      <sale_price>3559999</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>300011</max_benefit>
-      <color>оранжевый</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval Dargo, I Рестайлинг, Техно +, 2.0 AMT (200 л.с.) 4WD, 2026 г., оранжевый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939989/0/full.webp?v=94cc0a8a1397</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939989/1/full.webp?v=3ec7cc8455b8</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939989/2/full.webp?v=921381d18c07</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939989/3/full.webp?v=0c2634f8f72e</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939989/4/full.webp?v=7b8861feadba</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939989/5/full.webp?v=e83f5a30b464</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939989/6/full.webp?v=6dd677de06cd</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A3TA939989/7/full.webp?v=99ce20d75abe</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>XZGFF06A4TA309902</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-20-amt-200-hp-4wd-optimum-20t-at-2026-smoky-pearls-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>F7, II</folder_id>
-      <year>2026</year>
-      <vin>XZGFF06A4TA309902</vin>
-      <price>3365010</price>
-      <sale_price>3057500</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>307510</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval F7, II, Оптимум (2026), 2.0 AMT (200 л.с.) 4WD, 2026 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A4TA309902/0/full.webp?v=055ab496fbd4</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A4TA309902/1/full.webp?v=be3ba459719a</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A4TA309902/2/full.webp?v=b68f5d0eb8ef</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A4TA309902/3/full.webp?v=757307285643</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A4TA309902/4/full.webp?v=85d37d3842bc</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A4TA309902/5/full.webp?v=06abfcb90394</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A4TA309902/6/full.webp?v=3779d4574b64</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A4TA309902/7/full.webp?v=ac269cb1b134</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A4TA309902/8/full.webp?v=c7b2de8bab61</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A4TA309902/9/full.webp?v=16929c266a51</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A4TA309902/10/full.webp?v=71db47777938</image>
       </images>
     </car>
     <car>
@@ -3823,39 +3111,6 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A4TA320317/6/full.webp?v=bb5688a04086</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A4TA320317/7/full.webp?v=1c7f5430ca08</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A4TA320317/8/full.webp?v=d0ac78e03255</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>XZGFF06A5TA940769</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-dargo-i-facelift-20-amt-200-hp-4wd-optimum-20t-at-terracotta-sapphire-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>Dargo, I Рестайлинг</folder_id>
-      <year>2026</year>
-      <vin>XZGFF06A5TA940769</vin>
-      <price>3464010</price>
-      <sale_price>3178500</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>285510</max_benefit>
-      <color>оранжевый</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval Dargo, I Рестайлинг, Оптимум, 2.0 AMT (200 л.с.) 4WD, 2026 г., оранжевый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A5TA940769/0/full.webp?v=9b29558de99d</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A5TA940769/1/full.webp?v=54e88e010a9c</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A5TA940769/2/full.webp?v=352615fe5c1f</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A5TA940769/3/full.webp?v=b863d42d3d7c</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A5TA940769/4/full.webp?v=b7c99f3ed79b</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A5TA940769/5/full.webp?v=ef19104bf6ed</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A5TA940769/6/full.webp?v=6b5277df4993</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A5TA940769/7/full.webp?v=92adbf26b93f</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A5TA940769/8/full.webp?v=318cf7d034cd</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A5TA940769/9/full.webp?v=8b0213e0ac78</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A5TA940769/10/full.webp?v=f2a8d5ec1b19</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A5TA940769/11/full.webp?v=9f99c1f969f1</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A5TA940769/12/full.webp?v=e6e172c1d65a</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A5TA940769/13/full.webp?v=0bf816a498fe</image>
       </images>
     </car>
     <car>
@@ -3889,6 +3144,47 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A5TA943283/11/full.webp?v=55d414416037</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A5TA943283/12/full.webp?v=4e28a01d10cd</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A5TA943283/13/full.webp?v=26cd8729aa47</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A5TA944420</unique_id>
+      <url>https://haval-ulyanovsk.ru/cars/haval-dargo-i-facelift-20-amt-200-hp-4wd-premium-graphite-quartz-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Dargo, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A5TA944420</vin>
+      <price>3662010</price>
+      <sale_price>3286500</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>375510</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Haval Dargo, I Рестайлинг, Премиум, 2.0 AMT (200 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A5TA944420/0/full.webp?v=d3cb826cdcf7</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A6TA943129</unique_id>
+      <url>https://haval-ulyanovsk.ru/cars/haval-dargo-i-facelift-20-amt-200-hp-4wd-premium-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Dargo, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A6TA943129</vin>
+      <price>3662010</price>
+      <sale_price>3286500</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>375510</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Haval Dargo, I Рестайлинг, Премиум, 2.0 AMT (200 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A6TA943129/0/full.webp?v=619ade3cd002</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A6TA943129/1/full.webp?v=0d96cb5faf5a</image>
       </images>
     </car>
     <car>
@@ -3958,37 +3254,45 @@
       </images>
     </car>
     <car>
-      <unique_id>XZGFF06A8TA316335</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-f7-ii-20-amt-200-hp-4wd-techno--plus-2026-galactic-black-2026/</url>
+      <unique_id>XZGFF06A8TA943598</unique_id>
+      <url>https://haval-ulyanovsk.ru/cars/haval-dargo-i-facelift-20-amt-200-hp-4wd-techno--plus-galactic-black-2026/</url>
       <mark_id>Haval</mark_id>
-      <folder_id>F7, II</folder_id>
+      <folder_id>Dargo, I Рестайлинг</folder_id>
       <year>2026</year>
-      <vin>XZGFF06A8TA316335</vin>
-      <price>3761010</price>
-      <sale_price>3448500</sale_price>
+      <vin>XZGFF06A8TA943598</vin>
+      <price>3860010</price>
+      <sale_price>3559999</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>312510</max_benefit>
+      <max_benefit>300011</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <run>0</run>
-      <description>Автомобиль Haval F7, II, Техно + (2026), 2.0 AMT (200 л.с.) 4WD, 2026 г., черный</description>
+      <description>Автомобиль Haval Dargo, I Рестайлинг, Техно +, 2.0 AMT (200 л.с.) 4WD, 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A8TA316335/0/full.webp?v=602508700504</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A8TA316335/1/full.webp?v=0e0e2a275190</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A8TA316335/2/full.webp?v=11bdda222e65</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A8TA316335/3/full.webp?v=1d8caac11435</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A8TA316335/4/full.webp?v=82ff3f0aa881</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A8TA316335/5/full.webp?v=44bdf932ba58</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A8TA316335/6/full.webp?v=b735f4a1dd63</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A8TA316335/7/full.webp?v=85fef996b434</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A8TA316335/8/full.webp?v=d13c500c0e33</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A8TA316335/9/full.webp?v=bef70ee60aa4</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A8TA316335/10/full.webp?v=8cbaad433368</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A8TA316335/11/full.webp?v=0e63ca1972a1</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A8TA316335/12/full.webp?v=36b731ece1de</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A8TA316335/13/full.webp?v=41949bf38c28</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A8TA316335/14/full.webp?v=e3bf7ed13a50</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A8TA943598/0/full.webp?v=9669d7b7c250</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A8TA943598/1/full.webp?v=e857712048f6</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF06A9TA944453</unique_id>
+      <url>https://haval-ulyanovsk.ru/cars/haval-dargo-i-facelift-20-amt-200-hp-4wd-techno--plus-white-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>Dargo, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>XZGFF06A9TA944453</vin>
+      <price>3860010</price>
+      <sale_price>3559999</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300011</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Haval Dargo, I Рестайлинг, Техно +, 2.0 AMT (200 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A9TA944453/0/full.webp?v=d5949ec54948</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF06A9TA944453/1/full.webp?v=2f8d38f3d80a</image>
       </images>
     </car>
     <car>
@@ -4073,39 +3377,6 @@
       </images>
     </car>
     <car>
-      <unique_id>XZGFF07A2TA611218</unique_id>
-      <url>https://haval-ulyanovsk.ru/cars/haval-f7x-ii-20-amt-231-hp-4wd-premium-noble-agate-2026/</url>
-      <mark_id>Haval</mark_id>
-      <folder_id>F7x, II</folder_id>
-      <year>2026</year>
-      <vin>XZGFF07A2TA611218</vin>
-      <price>3761010</price>
-      <sale_price>3198500</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>562510</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <run>0</run>
-      <description>Автомобиль Haval F7x, II, Премиум, 2.0 AMT (231 л.с.) 4WD, 2026 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA611218/0/full.webp?v=1ca2079ff06b</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA611218/1/full.webp?v=b6e2df915df7</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA611218/2/full.webp?v=1b9294fd9bc2</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA611218/3/full.webp?v=bd0b43b42774</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA611218/4/full.webp?v=5360057aa304</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA611218/5/full.webp?v=b2f115bed3ae</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA611218/6/full.webp?v=bc2c7a7884e4</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA611218/7/full.webp?v=c7efce6d5149</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA611218/8/full.webp?v=dcf02e670f54</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA611218/9/full.webp?v=3dd8f0fb0691</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA611218/10/full.webp?v=2ab61a318a7a</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA611218/11/full.webp?v=06bca6e8de21</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA611218/12/full.webp?v=f55bf93c581e</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA611218/13/full.webp?v=fd7ffc485ef3</image>
-      </images>
-    </car>
-    <car>
       <unique_id>XZGFF07A2TA711500</unique_id>
       <url>https://haval-ulyanovsk.ru/cars/haval-h7-i-20-amt-231-hp-4wd-premium-noble-agate-2026/</url>
       <mark_id>Haval</mark_id>
@@ -4124,8 +3395,8 @@
       <images>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA711500/0/full.webp?v=3520298c7098</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA711500/1/full.webp?v=34687161d55a</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA711500/2/full.webp?v=69dbf60fb642</image>
-        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA711500/3/full.webp?v=db59676a82c5</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA711500/2/full.webp?v=47e36ec1769f</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA711500/3/full.webp?v=9aecc5ca1c88</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA711500/4/full.webp?v=ae3aa4b25fca</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA711500/5/full.webp?v=8d41e6596d88</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A2TA711500/6/full.webp?v=3d00e12399d0</image>
@@ -4189,6 +3460,27 @@
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A4TA712132/16/full.webp?v=0f8aa86152d2</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A4TA712132/17/full.webp?v=d3d7dce34700</image>
         <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A4TA712132/18/full.webp?v=b2033534e027</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>XZGFF07A5TA611164</unique_id>
+      <url>https://haval-ulyanovsk.ru/cars/haval-f7x-ii-20-amt-231-hp-4wd-premium-galactic-black-2026/</url>
+      <mark_id>Haval</mark_id>
+      <folder_id>F7x, II</folder_id>
+      <year>2026</year>
+      <vin>XZGFF07A5TA611164</vin>
+      <price>3761010</price>
+      <sale_price>3198500</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>562510</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <run>0</run>
+      <description>Автомобиль Haval F7x, II, Премиум, 2.0 AMT (231 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A5TA611164/0/full.webp?v=3ee007bda305</image>
+        <image>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/XZGFF07A5TA611164/1/full.webp?v=cd29902e5ec7</image>
       </images>
     </car>
     <car>
