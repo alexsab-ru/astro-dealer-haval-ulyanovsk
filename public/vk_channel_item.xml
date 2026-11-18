@@ -393,6 +393,29 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>EEYFF7A60TA000404</id>
+    <link>https://haval-ulyanovsk.ru/cars/haval-h9-ii-20-at-218-hp-4wd-premium-snow-onyx-2026/</link>
+    <brand>Haval</brand>
+    <model>H9, II</model>
+    <year>2026</year>
+    <title>Haval H9, II Премиум 2026</title>
+    <image_link>https://img.upspace.ru/cars/haval-ulyanovsk.ru/new/EEYFF7A60TA000404/0/full.webp?v=c4635d8c1cc3</image_link>
+    <price>4751010 RUB</price>
+    <sale_price>3994349 RUB</sale_price>
+    <min_price>3994349 RUB</min_price>
+    <max_price>4751010 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Haval H9, II, Премиум, 2.0 AT (218 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>EEYFF7A60TA000404</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>EEYFF7A62TA001070</id>
     <link>https://haval-ulyanovsk.ru/cars/haval-h9-ii-20-at-218-hp-4wd-premium-lunar-basalt-2026/</link>
     <brand>Haval</brand>
